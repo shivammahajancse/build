@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8104d56.css",
+    "main.js": "/static/js/main.82462824.js",
+    "static/js/787.af1cc19d.chunk.js": "/static/js/787.af1cc19d.chunk.js",
+    "static/media/acadLOGO.png": "/static/media/acadLOGO.44fc379d08a0b7ba0243.png",
+    "static/media/lilchamps.jpg": "/static/media/lilchamps.aec5d7de5415dc6e8331.jpg",
+    "static/media/imaginecup.png": "/static/media/imaginecup.9e9786ba25301560441c.png",
+    "static/media/nso.jpg": "/static/media/nso.b205b5e58c47085cb914.jpg",
+    "static/media/iit.png": "/static/media/iit.51aa51e2975e09b8f81c.png",
+    "static/media/Capture.PNG": "/static/media/Capture.97046be8258adbc1b6c6.PNG",
+    "index.html": "/index.html",
+    "main.e8104d56.css.map": "/static/css/main.e8104d56.css.map",
+    "main.82462824.js.map": "/static/js/main.82462824.js.map",
+    "787.af1cc19d.chunk.js.map": "/static/js/787.af1cc19d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8104d56.css",
+    "static/js/main.82462824.js"
+  ]
+}
